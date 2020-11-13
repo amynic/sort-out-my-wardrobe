@@ -21,9 +21,9 @@ This github repository contains code files and instructions for running a [Keras
 
 ## How to Run
 
-1. I have used [Azure Notebooks](https://notebooks.azure.com/) as an easy and simple way to access Jupyter Notebooks within a web browser
-2. Navigate to: [https://notebooks.azure.com/](https://notebooks.azure.com/)
-3. Sign in using your Azure Subscription credentials. If you do not have an Azure Subscription - sign up here: [https://azure.microsoft.com/en-gb/free/](https://azure.microsoft.com/en-gb/free/)
+1. I have used [Azure Notebooks](https://notebooks.azure.com/?WT.mc_id=aiml-0000-amynic) as an easy and simple way to access Jupyter Notebooks within a web browser
+2. Navigate to: [https://notebooks.azure.com/?WT.mc_id=aiml-0000-amynic](https://notebooks.azure.com/?WT.mc_id=aiml-0000-amynic)
+3. Sign in using your Azure Subscription credentials. If you do not have an Azure Subscription - sign up here: [https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-amynic](https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-amynic)
 4. Once on your account page, select **'My Projects'** in the top toolbar
 5. Then select the button **'Upload Github Repo'**
 6. Copy this repository URL to clone: [https://github.com/amynic/sort-out-my-wardrobe.git](https://github.com/amynic/sort-out-my-wardrobe.git)
